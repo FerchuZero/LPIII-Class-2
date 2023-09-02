@@ -1,6 +1,9 @@
 package src.main;
 
 import src.factorymethod.*;
+import src.strategy.*;
+
+import java.util.HashMap;
 
 public class Main {
 

@@ -1,4 +1,5 @@
 package src.prototype;
+// Crear objetos a partir de otros
 
 public class Estudiante {
     private String nombre;

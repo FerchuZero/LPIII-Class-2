@@ -1,5 +1,5 @@
 package src.builder;
-
+//Constructor dinamico
 public class Empleado {
     private String nombre;
     private long id;
@@ -10,7 +10,6 @@ public class Empleado {
     }
 
     public static EmpleadoBuilder builder(){
-
         return new EmpleadoBuilder();
     }
 

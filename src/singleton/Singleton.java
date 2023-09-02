@@ -1,5 +1,5 @@
 package src.singleton;
-
+// Una unica instancia de una clase
 public class Singleton {
     private static Singleton instance;
 
