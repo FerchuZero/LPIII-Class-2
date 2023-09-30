@@ -12,5 +12,7 @@ public class EjMap {
         System.out.println(map);
 
         map.put(5, "Accion Crear");
+
+        map.forEach((key, value) -> System.out.println("Key: " + key + " -> " + "Value: " + value));
     }
 }
